@@ -13,3 +13,5 @@ The Chef Menu App is designed to streamline menu management for a personal chef.
 - Optimized Navigation: Refactored navigation props to reduce redundant code.
 - Code Efficiency: Simplified data handling for menu items, reducing redundancy in filter and add item functions.
 - Bug Fixes: Resolved issues with non-serializable values in navigation and fixed warnings in Expo.
+# 4. Video Recording Link
+Youtube Link : https://youtu.be/IavlimqUCwI
