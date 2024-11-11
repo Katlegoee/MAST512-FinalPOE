@@ -1,6 +1,6 @@
 # MAST512-FinalPOE: [MyReactiveApp]
 # Project Description
-This app is designed to [The Chef Menu App is designed to streamline menu management for a personal chef. This mobile application allows the chef to easily create, update, and manage their menu offerings in real time, ensuring a personalized dining experience for clients. Through the app, the chef can add new menu items, categorize them by course, and adjust prices, with a user-friendly interface that supports smooth menu navigation. Key features include the ability to filter menu items by course, calculate average prices, and edit or delete items as needed, making it a practical tool for enhancing culinary service efficiency"]
+This app is designed to The Chef Menu App is designed to streamline menu management for a personal chef. This mobile application allows the chef to easily create, update, and manage their menu offerings in real time, ensuring a personalized dining experience for clients. Through the app, the chef can add new menu items, categorize them by course, and adjust prices, with a user-friendly interface that supports smooth menu navigation. Key features include the ability to filter menu items by course, calculate average prices, and edit or delete items as needed, making it a practical tool for enhancing culinary service efficiency".
 
 # Features Added Since Part 2
 New Screen for Added Items: Items are now displayed on a separate screen instead of the home page.
